@@ -1,1 +1,4 @@
-pytelegrambotapi gspread oauth2client requests
+pytelegrambotapi
+gspread
+oauth2client
+requests
